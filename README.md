@@ -12,9 +12,9 @@
 
 *Hello! I'm **Sri Datta**! – a Data Engineer and Full Stack Developer with a passion for transforming data into impactful insights and building end-to-end solutions. I’m driven by curiosity and love exploring new technologies! 🌐*
 
-🛠️ Working on scalable data pipelines and full-stack applications that optimize workflows and enable smarter decisions.
-🌍 Previously at Invesco, I enhanced a portfolio management platform, streamlined processes, and collaborated across teams for data-driven solutions.
-🔍 Currently exploring {"Data Engineering", "Full Stack Development", "Integrating Data with AI solutions"}
-🌱 Always learning about cloud computing, machine learning, and new frameworks for both front-end and back-end development.
-📫 Let’s connect! Feel free to reach out via [email](mailto:sridattayaddanapudi@gmail.com) – I’m open to new ideas and collaborations.
-💬 Ask me about data engineering, full-stack development, or any tech curiosity – I’m here to help!
+-🛠️ Working on scalable data pipelines and full-stack applications that optimize workflows and enable smarter decisions.
+-🌍 Previously at Invesco, I enhanced a portfolio management platform, streamlined processes, and collaborated across teams for data-driven solutions.
+-🔍 Currently exploring {"Data Engineering", "Full Stack Development", "Integrating Data with AI solutions"}
+-🌱 Always learning about cloud computing, machine learning, and new frameworks for both front-end and back-end development.
+-📫 Let’s connect! Feel free to reach out via [email](mailto:sridattayaddanapudi@gmail.com) – I’m open to new ideas and collaborations.
+-💬 Ask me about data engineering, full-stack development, or any tech curiosity – I’m here to help!
